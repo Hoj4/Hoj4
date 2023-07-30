@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&text=Hello&height=150&section=header" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoj4&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoj4&layout=compact)](https://github.com/delay-100/github-readme-stats)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 <!--
