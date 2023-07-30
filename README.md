@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D358F7&text=Hello&textColor=4C0B5F&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D358F7&text=Hello&textColor=auto&height=120&section=header" />
   
 <h1>Skills</h1>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
