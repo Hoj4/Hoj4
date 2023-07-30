@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=purple&height=50px&section=header&text=hello&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=50px&section=header&text=hello&fontSize=50" />
 
 <!--
 **Hoj4/Hoj4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
