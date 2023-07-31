@@ -18,6 +18,14 @@
 
 <br>
 <br>
+
+<h3>――――― Tools ――――</h3>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+
+
+<br>
+<br>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoj4&show_icons=true&theme=synthwave)
