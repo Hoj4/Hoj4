@@ -10,6 +10,7 @@
 <h3>――――― Tech Stack ――――</h3>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
