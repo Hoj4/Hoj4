@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D358F7&text=Hello&fontColor=E3CEF6&height=120&section=header" />
   
 <h3>――――― Introduction ――――</h3>
-코딩은 정해져 있지 않은 답을 찾아가는 여정으로, <br> 이 과정에서 자유롭고 창의적임에 이끌려 즐겁게 코딩중인 신입개발자입니다. :)
+코딩의 자유롭고 창의적임에 이끌려 즐겁게 코딩중인 신입개발자입니다. :)
 
 <br>
 <br>
